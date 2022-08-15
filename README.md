@@ -11,5 +11,17 @@ These problems motivated us to build a new platform from scratch using modern te
 - Innovate
 - Cost-effective
 - Highly available
+# Architecture Guidelines & Operating Principles
+We set a few architecture guidelines and design patterns and followed them religiously.
+- Best Of The Breed Technology
+- Domain Oriented Microservice Architecture
+- Containerised Deployments
+- Stateless, Omni-channel & Massively Scalable
+- Elastic
+- Resiliency At The Core
+- STOSA
+- DevOps & Automation
+- Observability
+- Cost-effective
 
 ![Deployment_Architecture!](images/Deployment_Architecture.png)
